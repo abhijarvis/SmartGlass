@@ -172,3 +172,93 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+._.DS_Store
+._barcode_api
+._caption_api
+._chatbot
+._docs
+._face_api
+._gmg.py
+._hand_sign_api
+._infos_api
+._LICENSE
+._ocr_api
+._README.md
+._requirement.txt
+._setup_linux.py
+._setup_win.py
+._speech_api
+._translate_api
+._utils
+.DS_Store
+._.gitignore
+barcode_api/._.gitkeep
+barcode_api/._barcode_engine.py
+barcode_api/._test.jpg
+docs/._arch.drawio
+docs/._architecture.png
+docs/._images
+docs/._logo.psd
+docs/._matriels.png
+docs/._prototype.png
+docs/._prototype.psd
+docs/._Red Seven.otf
+chatbot/._.gitkeep
+caption_api/._.gitkeep
+face_api/__init__.py
+face_api/.___init__.py
+face_api/._.editorconfig
+face_api/._benchmark-result.txt
+face_api/._data
+face_api/._dataset
+face_api/._dlib_cnn.py
+face_api/._dlib_hog.py
+face_api/._haar_cascade.py
+face_api/._images
+face_api/._models
+face_api/._mtcnn.py
+face_api/._resources
+face_api/._ssd_mobilenet.py
+face_api/._test_deploy.py
+face_api/._wider_benchmark.py
+face_api/data/._jobs1.jpg
+face_api/data/._jobs2.jpg
+face_api/data/._jobs3.jpg
+face_api/data/._jobs4.jpg
+face_api/data/._obama1.jpg
+face_api/data/._obama2.jpeg
+face_api/data/._obama3.jpg
+face_api/data/._obama4.jpg
+face_api/data/._test.jpg
+face_api/data/._Albert_Einstein.jpg
+face_api/data/._data.pkl
+face_api/data/._dataset
+face_api/data/._einstein1.jpg
+face_api/data/._einstein2.jpg
+face_api/data/._einstein3.jpg
+face_api/data/._einstein4.jpg
+face_api/data/._haarcascade_eye.xml
+face_api/data/._haarcascade_frontalface_default.xml
+face_api/data/._haarcascade_smile.xml
+face_api/data/dataset/._Angela Merkel.jpg
+face_api/data/dataset/._Ashraf Kazri.jpg
+face_api/data/dataset/._Barak Obama.jpg
+face_api/data/dataset/._Bill gates.jpg
+face_api/data/dataset/._Donald Trump.jpeg
+face_api/data/dataset/._Elon Musk.jpg
+face_api/data/dataset/._Geoffry Hinnton.jpeg
+face_api/data/dataset/._Kim Jong Un.jpg
+face_api/data/dataset/._Mark Zuckerberg.jpg
+face_api/data/dataset/._Steve Jobs.jpg
+face_api/data/dataset/._Vladimir Putin.jpg
+face_api/data/dataset/._Yann Lecun.jpg
+face_api/data/dataset/._Yoshua Bengio.jpg
+ocr_api/__init__.py
+ocr_api/.___init__.py
+ocr_api/._ctpn.py
+ocr_api/._data
+ocr_api/._lib
+ocr_api/._ocr_engine.py
+ocr_api/._preprocessing.py
+ocr_api/._requirements.txt
+ocr_api/._tesseract_engine.py
