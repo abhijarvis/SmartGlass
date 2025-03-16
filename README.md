@@ -96,5 +96,4 @@ python gmg.py -t ocr -i image_path -l en
 - Open source ChatBot library [Link](https://rasa.com)
 
 ## Licence
-GuideMeGlasses
-:eyeglasses:
+
